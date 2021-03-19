@@ -1,0 +1,32 @@
+baseURL: https://example.com
+languageCode: en-us
+defaultContentLanguage: en
+theme: cupper-hugo-theme
+
+params:
+  picture: images/logo.svg
+  footer: © 2021 ISOP SxP SIG. All Rights Reserved.   
+  dateFormat: Jan 2, 2006
+  katex: true
+  hideHeaderLinks: false
+  search: true
+  showThemeSwitcher: true
+  moveFooterToHeader: false     
+  
+menu:
+  nav: 
+    - name: Home  
+      url: / 
+      weight: 1
+    - name: Events
+      url: /post/
+      weight: 2
+    - name: Tags
+      url: /tags/
+      weight: 3
+    - name: Resources
+      url: /resources/
+      weight: 4
+ 
+     
+
