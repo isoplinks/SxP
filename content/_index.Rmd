@@ -1,6 +1,6 @@
 ---
 title: "Home"
-date: "2021-02-19"
+date: "2021-04-16"
 output: html_document 
 ---
 
@@ -11,10 +11,13 @@ knitr::opts_chunk$set(echo = TRUE)
 # What is ISoP?
 ISoP stands for International Society of Pharmacometrics. The purpose of the ISoP is to promote and advance the discipline of Pharmacometrics and broaden its impact. We are individuals from around the globe from various backgrounds in pharmaceutics, engineering, statistics, and mathematics, who are passionate about advancing and promoting the field of Pharmacometrics.
 
-# What are Special Interest Groups (SIGs)?
-A Special Interest Group (SIG) is a community within ISOP with a shared interest in advancing a specific area of knowledge, learning or technology, where members cooperate to affect or to produce solutions within their particular field. The SIGs communicate, meet, develop training materials, develop position papers and publications, support students, and organize programming ideas.
+# What is ASA?
+The American Statistical Association (ASA) is the world’s largest community of statisticians, the “Big Tent for Statistics.” It is the second-oldest, continuously operating professional association in the country. Since it was founded in Boston in 1839, the ASA has supported excellence in the development, application, and dissemination of statistical science through meetings, publications, membership services, education, accreditation, and advocacy.
 
-There are four ISoP special interest groups.
+# What are Special Interest Groups (SIGs)?
+A Special Interest Group (SIG) is a community with a shared interest in advancing a specific area of knowledge, learning or technology, where members cooperate to affect or to produce solutions within their particular field. The SIGs communicate, meet, develop training materials, develop position papers and publications, support students, and organize programming ideas.
+
+There are four special interest groups.
 
 Clinical Pharmacometrics SIG 
 Mathematical and Computational Sciences (MCS) SIG
@@ -22,7 +25,7 @@ Quantitative Systems Pharmacology (QSP) SIG
 Statistics and Pharmacometrics (SxP) SIG
 
 # What is SxP SIG?
-The Statistics and Pharmacometrics Special Interest Group (SxP) was named in 2016 and is chartered by both the American Statistical Association (ASA) and International Society of Pharmacometrics (ISoP).  This Interest Group promotes collaboration between Statisticians and Pharmacometricians, to enable each discipline to learn and grow from the other and to develop innovative approaches to model informed drug development.
+The Statistics and Pharmacometrics Special Interest Group (SxP) was named in 2016 and is chartered by both the American Statistical Association and International Society of Pharmacometrics.  This Special Interest Group promotes collaboration between Statisticians and Pharmacometricians, to enable each discipline to learn and grow from the other and to develop innovative approaches to model informed drug development.
 
 
 # Steering Committee
