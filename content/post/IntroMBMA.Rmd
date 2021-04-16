@@ -17,9 +17,7 @@ Model-based meta-analysis (MBMA) is a tool for integrating prior knowledge, both
 The webinar will enable you to understand what MBMA is and will present some examples showing the impact it can have in drug development and other critical business decisions.
 
 
-
-## Recording
-[Link to the recording](https://www.dropbox.com/s/s792znavolwn2np/MBMA%20Webinar.mp4?dl=0)
+<iframe src="https://www.youtube.com/embed/bf7_-cNjydQ" frameborder="0" allowfullscreen></iframe>
 
 
 ## Q & A
