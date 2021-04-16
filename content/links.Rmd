@@ -2,19 +2,10 @@
 title: Resources
 ---
 
-* [ASA](https://www.amstat.org/)
+* [ASA](https://www.amstat.org/){target="_blank"}
 
-* [ISOP](http://go-isop.org/)
+* [ISOP](http://go-isop.org/){target="_blank"}
 
-* [ASA Biopharmaceutical Section](https://community.amstat.org/communities/community-home?CommunityKey=3259b27b-4df8-4590-9009-17f52d7f0fe7)
+* [ASA Biopharmaceutical Section](https://community.amstat.org/communities/community-home?CommunityKey=3259b27b-4df8-4590-9009-17f52d7f0fe7){target="_blank"}
 
-* [ISOP Discussion Group](https://discuss.go-isop.org/)
- 
- 
-```{js, echo=FALSE}  
-(function() {  
-  for (const link of document.getElementsByTagName('a')) {  
-    if (/^(https?:)?\/\//.test(link.getAttribute('href'))) link.target = '_blank';  
-  }  
-})();  
-```  
+* [ISOP Discussion Group](https://discuss.go-isop.org/){target="_blank"}
