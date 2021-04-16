@@ -4,7 +4,7 @@ date: 2019-10-23
 tags: [Session, ACOP]
 toc: false
 ---
-
+  
 * **The Case of the Crisis of Confidence:**
 
   - Jim Rogers sued Eric Jordie for improperly labelling prediction intervals in his VPC as confidence intervals. Judge Kowalski found Dr. Jordie guilty with extenuating circumstances, given that the ISoP guidance on model evaluation is what steered him wrong! Eric was held in contempt of court for attitude problems
