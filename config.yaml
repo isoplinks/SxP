@@ -18,15 +18,19 @@ menu:
     - name: Home  
       url: / 
       weight: 1
+    - name: Membership
+      url: /membership/ 
+      weight: 2
     - name: Events
       url: /post/
-      weight: 2
-    - name: Tags
-      url: /tags/
       weight: 3
     - name: Resources
       url: /links/
       weight: 4
+    - name: Tags
+      url: /tags/
+      weight: 5
+    
  
      
 
