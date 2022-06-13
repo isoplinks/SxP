@@ -36,7 +36,10 @@ Specifically, the goals of the SxP SIG are to:
 * Provide opportunities to discuss computing platforms and share code
 
 
+# Join Us!
+Membership is free. 
 
+Benefits of membership include access to a vast network of professionals from the joint scientific community and access to the content pertaining to scientific lectures, presentations, and related educational materials. SxP will have annual SIG meetings at the ISoP's American Conference on Pharmacometrics (ACoP) and at the ASA’s Joint Statistical Meeting (JSM) and will sponsor sessions at such meetings.
 
 
   

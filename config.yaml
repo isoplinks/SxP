@@ -18,8 +18,8 @@ menu:
     - name: Home  
       url: / 
       weight: 1
-    - name: Membership
-      url: /membership/ 
+    - name: Leadership
+      url: /leadership/ 
       weight: 2
     - name: Events
       url: /post/
