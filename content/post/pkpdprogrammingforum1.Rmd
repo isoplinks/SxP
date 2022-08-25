@@ -1,0 +1,17 @@
+---
+title: "Review of proposed NCA ADAM standard"
+date: 2021-03-17
+tags: [Webinar, PKPD, PKPD Programming Forum, NCA, CDISC, ADNCA]
+toc: false
+---
+
+## Abstract
+
+The topic for discussion is ADNCA (ADaM dataset for non-compartmental analysis). Many of you know CDISC released ADNCA for public review a while ago and now is in the process of addressing comments and gearing up for publishing. We would like to take this opportunity to give an overview of ADNCA, dataflow considerations and open up for discussion and questions from everyone across the industry. 
+
+Presenter: David Radtke
+
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/K-w57rDDQn0" frameborder="0" allowfullscreen></iframe>
+
+
+

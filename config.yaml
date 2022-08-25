@@ -1,11 +1,11 @@
-baseURL: https://example.com
+baseURL: /
 languageCode: en-us
 defaultContentLanguage: en
 theme: cupper-hugo-theme
 
 params:
   picture: images/logo.svg
-  footer: © 2021 ISOP SxP SIG. All Rights Reserved.   
+  footer: © 2022 ASA ISOP SxP SIG. All Rights Reserved.   
   dateFormat: Jan 2, 2006
   katex: true
   hideHeaderLinks: false
@@ -18,15 +18,19 @@ menu:
     - name: Home  
       url: / 
       weight: 1
+    - name: Leadership
+      url: /leadership/ 
+      weight: 2
     - name: Events
       url: /post/
-      weight: 2
-    - name: Tags
-      url: /tags/
       weight: 3
     - name: Resources
-      url: /resources/
+      url: /links/
       weight: 4
+    - name: Tags
+      url: /tags/
+      weight: 5
+    
  
      
 

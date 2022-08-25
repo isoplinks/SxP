@@ -1,0 +1,17 @@
+---
+title: "Update on CDISC ADaM Population PK Data Standard ADPPK"
+date: 2021-03-25
+tags: [Webinar, PKPD, PKPD Programming Forum, CDISC, ADPPK]
+toc: false
+---
+
+## Abstract
+
+After ISoP Data Standard working group published the Population PK Data Standard (ADPPK) on ISoP [Data Standards Working Group](https://nam04.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgo-isop.org%2Fcommittees%2Fstandards-best-practices-committee%2Fdata-standards-working-group%2F&data=05%7C01%7Cvvaddady%40dsi.com%7C4e3fb94e9f4046ef510708da4b203329%7Cb0179487302644f7bcd625ed452138d0%7C0%7C0%7C637904898952420522%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=V5GmfrvKTmmIJ2C%2F%2FEVIcbOT8vkbcgn0LrwIpNo%2FpSo%3D&reserved=0) in 2020, the working group has taken the standard to CDISC ADaM working group to make it CDISC compliant. In this presentation we will provide a status update and present the current CDSIC ADPPK Standard. We will also discuss how companies can adopt ADPPK and implement it into their workflows.
+
+Presenter: Neelima Thanneer
+
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/rjSi4F1eZYQ" frameborder="0" allowfullscreen></iframe>
+
+
+
